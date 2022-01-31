@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/fundo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+}
+
+article{
+    margin-top: 100px;
+}
+
+.basic {
+    background: rgba(24, 1, 1, 0.062);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.582);
+}
+
